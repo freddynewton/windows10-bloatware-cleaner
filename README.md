@@ -46,7 +46,7 @@ If you have suggestions or improvements, feel free to open an issue or submit a 
 
 ## Contact
 
-For any questions or issues, please contact [Your Name] at [your.email@example.com].
+For any questions or issues, please contact @freddynewton at [here](https://freddynewton.github.io).
 
 ---
 
